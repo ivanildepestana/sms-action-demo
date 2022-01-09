@@ -1,6 +1,6 @@
 {
   "name": "@ivanildepestana/sms-action-demo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A basic Node.js application to demonstrate how to add the Twilio SMS action to it",
   "main": "index.js",
   "scripts": {
